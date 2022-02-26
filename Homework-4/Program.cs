@@ -10,7 +10,7 @@ namespace Homework_4
             //                2 - reqemlidirse cavabda  2 - reqemli.....
             //                5 - reqemlidrise cavabda  5 - reqemli cap edin
 
-            int a = 6;
+            int a = 6999999;
 
             if (a > 0 && a < 10)
             {
@@ -32,6 +32,10 @@ namespace Homework_4
             else if (a > 9999 && a < 100000)
             {
                 Console.WriteLine("5 reqemlidir");
+            }
+            else
+            {
+                Console.WriteLine("1, 2, 3, 4, 5, reqemli yazi :) .");
             }
 
 
